@@ -1,0 +1,35 @@
+#Get all users
+
+GET http://localhost:5000/users
+####
+#Get a single user
+##
+#REGISTER A users
+
+POST http://localhost:5000/users
+Content-Type: application/json
+
+{
+    "email": "mpho98@gmail.com",
+    "password": "123455"
+}
+
+
+###
+
+GET http://localhost:5000/users/2
+#####
+#GET A SINGLE BOOKING
+http://localhost:5000/booking
+####
+#GET ALL BOOKINGS FOR A USER
+http://localhost:5000/2/booking
+####
+http://localhost:5000/listings
+#####
+# POST http://localhost:5000/posts
+# content-type: application/json
+# {
+#     "title": "airbn clone",
+#     "author": "Dakalo",
+# }

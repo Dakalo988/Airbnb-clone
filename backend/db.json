@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Dakalo sadiki",
+      "email": "dakalosadiki98@gmail.com",
+      "phone": "0826656051"
+    },
+    {
+      "id": "01f8",
+      "email": "dakalosadiki98@gmail.com",
+      "password": "bestPassword"
+    },
+    {
+      "id": "3d10",
+      "email": "dakalosadiki98@gmail.com",
+      "password": "bestPassword"
+    },
+    {
+      "id": "0198",
+      "email": "mpho98@gmail.com",
+      "password": "123455"
+    }
+  ],
+  "booking": [
+    {
+      "listingid": 1,
+      "startDate": "2024-04-12",
+      "endDate": "2024-04-20",
+      "useId": "1",
+      "id": "430e"
+    }
+  ],
+  "listings": [
+    {
+      "id": "1",
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 985,
+      "address": "church street",
+      "city": "Thohoyandou",
+      "street": "Matshele",
+      "price": "R5900",
+      "sq_ft": "4.2",
+      "email": "test@test.com",
+      "userId": "2"
+    }
+  ]
+}
