@@ -34,6 +34,25 @@
   "listings": [
     {
       "id": "1",
+      "img": "https://a0.muscache.com/im/pictures/6b008ffe-2029-439c-88de-9ca47255339e.jpg?im_w=720",
+      "title": "Entire cottage in Robertson, South Africa",
+      "description": "led by the world of hosts",
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 985,
+      "address": "church street",
+      "city": "Thohoyandou",
+      "street": "Matshele",
+      "price": "R5900",
+      "sq_ft": "4.2",
+      "email": "test@test.com",
+      "userId": "2"
+    },
+    {
+      "id": "2",
+      "img": "https://a0.muscache.com/im/pictures/6b008ffe-2029-439c-88de-9ca47255339e.jpg?im_w=720",
+      "title": "Entire cottage in Robertson, South Africa",
+      "description": "led by the world of hosts",
       "bath_num": 3,
       "bed_num": 4,
       "zip": 985,
