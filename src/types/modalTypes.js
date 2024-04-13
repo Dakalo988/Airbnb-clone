@@ -1,0 +1,1 @@
+export const OPEN_MODAL = "LISTING_LIST_FAIL";

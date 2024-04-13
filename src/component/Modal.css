@@ -1,0 +1,42 @@
+.site-modal {
+  position: fixed;
+  /*stay in place*/
+  z-index: 10000;
+  /*sit on top*/
+  left: 0;
+  top: 0;
+  width: 100%;
+  /*full width*/
+  height: 100%;
+  /*full height*/
+  overflow: auto;
+  /*Enable scroll if needed */
+  background-color: rgb(0, 0, 0);
+  /* fallback color */
+  background-color: rgb(0, 0, 0, 0.4);
+  /* Black w / opacity */
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+.site-modal .close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  width: 23px;
+  padding: 4px;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
